@@ -6,3 +6,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/210295641-47f7124a-38b8-44ea-83b6-ac8a16ddfa15.png)
 
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-소개.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/프로젝트-생성.md
