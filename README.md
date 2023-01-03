@@ -7,3 +7,4 @@
 
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-소개.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/프로젝트-생성.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-적용-확인.md
