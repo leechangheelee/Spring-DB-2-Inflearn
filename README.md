@@ -11,3 +11,4 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-적용-위치.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-AOP-주의-사항-프록시-내부-호출1.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-AOP-주의-사항-프록시-내부-호출2.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-AOP-주의-사항-초기화-시점.md
