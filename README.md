@@ -15,3 +15,8 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-옵션-소개.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/예외와-트랜잭션-커밋-롤백-기본.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/예외와-트랜잭션-커밋-롤백-활용.md
+
+## **스프링 트랜잭션 전파1 - 기본**
+![image](https://user-images.githubusercontent.com/79301439/211199724-8d5893bc-55d1-482b-be8a-dbf70d77da34.png)
+
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파1-커밋-롤백.md
