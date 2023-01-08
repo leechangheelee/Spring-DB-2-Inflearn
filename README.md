@@ -14,3 +14,4 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-AOP-주의-사항-초기화-시점.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-옵션-소개.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/예외와-트랜잭션-커밋-롤백-기본.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/예외와-트랜잭션-커밋-롤백-활용.md
