@@ -34,3 +34,4 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용1-예제-프로젝트-시작.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용2-커밋-롤백.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용3-단일-트랜잭션.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용4-전파-커밋.md
