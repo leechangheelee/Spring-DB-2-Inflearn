@@ -37,3 +37,4 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용4-전파-커밋.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용5-전파-롤백.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용6-복구-REQUIRED.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용7-복구-REQUIRES_NEW.md
