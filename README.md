@@ -23,3 +23,4 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파2-트랜잭션-두-번-사용.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파3-전파-기본.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파4-전파-예제.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파5-외부-롤백.md
