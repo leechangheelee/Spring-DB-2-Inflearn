@@ -32,3 +32,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/211308367-f9380619-445b-4122-b234-445b70c1f75a.png)
 
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용1-예제-프로젝트-시작.md
+  * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/트랜잭션-전파-활용2-커밋-롤백.md
