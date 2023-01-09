@@ -27,3 +27,6 @@
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파6-내부-롤백.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파7-REQUIRES_NEW.md
   * https://github.com/leechangheelee/Spring-DB-2-Inflearn/blob/main/스프링-트랜잭션-전파8-다양한-전파-옵션.md
+
+## **스프링 트랜잭션 전파2 - 활용**
+![image](https://user-images.githubusercontent.com/79301439/211308367-f9380619-445b-4122-b234-445b70c1f75a.png)
